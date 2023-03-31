@@ -1,1 +1,1 @@
-# En este repo almacenamos algunos proyectos de cursos en los qu ehemos participado
+# En este repo almacenamos algunos proyectos de cursos en los que he participado
